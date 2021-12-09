@@ -35,11 +35,11 @@
 }
 
 /* Tablet */
-@media (min-width: 740) and (max-with: 1023px) {
+@media (min-width: 740) and (max-width: 1023px) {
 }
 
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 739px) {
   .s-col-full,
   .s-full-width {
     width: 100% !important;
