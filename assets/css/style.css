@@ -228,7 +228,7 @@ html {
   /* 50% chiều ngang của chính nó nghĩa là kích thước chiều cao bằng 50% của chiều rộng */
   padding-top: 50%;
   /* Viết "/" để hiện emmet khi  link file, sau dấu gạch chéo là Background-size */
-  background: url("http://127.0.0.1:5501/assets/img/slider/Slider_1.jpg") top center / cover
+  background: url("/assets/img/slider/Slider_1.jpg") top center / cover
     no-repeat;
 }
 
