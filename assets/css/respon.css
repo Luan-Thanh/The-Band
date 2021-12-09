@@ -1,9 +1,9 @@
 /* PC */
-@media (max-width: 1024px) {
+@media (max-width: 64em) {
 }
 
 /* Tablet & Mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
   .btn {
     padding: 15px 16px;
     font-size: 16px;
@@ -35,11 +35,11 @@
 }
 
 /* Tablet */
-@media (min-width: 740) and (max-width: 1023px) {
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
 }
 
 /* Mobile */
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
   .s-col-full,
   .s-full-width {
     width: 100% !important;
